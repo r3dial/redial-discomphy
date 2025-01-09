@@ -1,5 +1,9 @@
 Posts images or videos to discord with optional text messages.
 
+Clone this into custom_nodes
+Install requirements (discord..  For Stand-alone embedded python it looks like this from a command line in the comfyui_windows_portable directory:
+     .\python_embeded\python.exe -m pip install -r .\ComfyUI\custom_nodes\redial-discomphy\requirements.txt
+     
 Add your Discord Token, Guild, and Channel information to the default.env and rename it to .env
 
 1. Get Discord Token from https://discord.com/developers/applications
