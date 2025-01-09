@@ -1,5 +1,10 @@
 Posts images or videos to discord with optional text messages.
 
+![image](https://github.com/user-attachments/assets/57d16eaf-dfe3-4a9c-b502-c1f7c8904789)
+
+![image](https://github.com/user-attachments/assets/80da3779-f01f-4eb9-a702-6d5ead03a23b)
+
+
 Clone this into our custom_nodes:
      cd ComfyUI_windows_portable\ComfyUI\custom_nodes
      git clone https://github.com/r3dial/redial-discomphy.git
