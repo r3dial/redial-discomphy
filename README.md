@@ -1,4 +1,4 @@
-This node posts a discord message containing the given inputs.  This node takes an image directly, and/or a media path, and text for the discord post.  
+Posts images or videos to discord with optional text messages.
 
 Add your Discord Token, Guild, and Channel information to the default.env and rename it to .env
 
