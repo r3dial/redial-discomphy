@@ -1,0 +1,15 @@
+[project]
+name = "redial-discomphy"
+description = "A custom node for ComfyUI that enables direct posting of images, videos, and messages to Discord channels. This node seamlessly integrates your ComfyUI workflows with Discord communication, allowing you to automatically share your generated content."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["discord.py>=2.0.0", "python-dotenv>=0.19.0"]
+
+[project.urls]
+Repository = "https://github.com/r3dial/redial-discomphy"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "redial-discomphy"
+Icon = ""
